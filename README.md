@@ -1,3 +1,3 @@
 # zebracrossing_classifier
-classifier by pytorch
+classifier in pytorch
 support MobileNetV2，MobileNetV3， GhostNet
